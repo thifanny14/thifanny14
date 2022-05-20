@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou **@thifanny14**
+- 👍 Meu [email](thifanny.oliveira@escola.pr.gov.br)
+- 👀 Estou interessada em aprender linguagem de programação.
+- 🌱 Eu to aprendendo JavaScript e Scratch
